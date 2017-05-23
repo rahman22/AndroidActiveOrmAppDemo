@@ -35,8 +35,8 @@ compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
 ### Crud App Screenshot 
 
 <p align="left">
-  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200" height="300"/>
-  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200" height="300"/>
-  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200" height="300"/>
-  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200" height="300"/>
+  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/28509637/26379272/be5dfd90-4031-11e7-91a8-10f3fb581bba.png" width="200"/>
 </p>
