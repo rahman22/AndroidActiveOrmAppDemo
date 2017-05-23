@@ -12,12 +12,20 @@ repositories {
 
 jcenter()
 
-maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+maven { 
+
+url "https://oss.sonatype.org/content/repositories/snapshots/"
+
 }
 
-dependencies {
+}
+
+dependencies 
+
+{
 
 compile fileTree(dir: 'libs', include: ['*.jar'])
 compile 'com.android.support:appcompat-v7:22.2.1'
 compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
+
 }
