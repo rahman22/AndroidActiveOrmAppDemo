@@ -8,6 +8,7 @@ ActiveAndroid works like any Object Relational Mapper by mapping java classes to
 
 In Android Studio, you can setup ActiveAndroid via Gradle in app/build.gradle:
 
+```java
 repositories {
 
 jcenter()
@@ -19,6 +20,8 @@ url "https://oss.sonatype.org/content/repositories/snapshots/"
 }
 
 }
+```
+```java
 
 #### dependencies 
 
@@ -31,6 +34,7 @@ compile 'com.android.support:appcompat-v7:22.2.1'
 compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
 
 }
+```
 
 ### Crud App Screenshot 
 
